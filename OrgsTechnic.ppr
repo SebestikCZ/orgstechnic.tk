@@ -1,0 +1,31 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultCP=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+HTServer=localhost
+[Project tree]
+OrgsTechnic
+	-CSS
+	+XHTML
+		index.html
+[Open project files]
+0=index.html
+1=..\sebestik.tk final\index.html
+[Selected Project Files]
+Main=index.html
+Selected=index.html
+[index.html]
+TopLine=1
+Caret=73,11
+[..\sebestik.tk final\index.html]
+TopLine=1
+Caret=97,16
