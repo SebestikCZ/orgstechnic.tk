@@ -14,18 +14,28 @@ ProjectFilesOnly=0
 HTServer=localhost
 [Project tree]
 OrgsTechnic
-	-CSS
+	+CSS
+		CSS\styly.css
 	+XHTML
 		index.html
+		developers.html
 [Open project files]
-0=index.html
-1=..\sebestik.tk final\index.html
+0=developers.html
+1=C:\Adámek\documents\Nanonauti\o-nas.html
+2=CSS\styly.css
+3=index.html
 [Selected Project Files]
 Main=index.html
-Selected=index.html
+Selected=developers.html
+[developers.html]
+TopLine=1
+Caret=19,39
+[C:\Adámek\documents\Nanonauti\o-nas.html]
+TopLine=49
+Caret=1,1
+[CSS\styly.css]
+TopLine=1
+Caret=20,17
 [index.html]
-TopLine=1
-Caret=73,11
-[..\sebestik.tk final\index.html]
-TopLine=1
-Caret=97,16
+TopLine=5
+Caret=23,40
